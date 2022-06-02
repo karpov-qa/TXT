@@ -1,0 +1,7 @@
+Скилы, которые будут приобретены на курсе:
+Linux terminal commands с помощью GitBash;
+JavaScript такие темы, как: For, While, функции, строчные функции и Chai Js;
+Git, темы: draw, branch merge;
+Клиент серверная архитектура, модели OSI и TCP/IP;
+API с инструментом Postman;
+SQL с помощью DBeaver.
